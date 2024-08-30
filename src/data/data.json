@@ -1,0 +1,1668 @@
+[
+  {
+    "protein1": "ENSP00000000233",
+    "protein2": "ENSP00000239690",
+    "combined_score": 619,
+    "protein1_preferred_name": "ARF5",
+    "protein2_preferred_name": "NUDCD1"
+  },
+  {
+    "protein1": "ENSP00000000233",
+    "protein2": "ENSP00000249923",
+    "combined_score": 565,
+    "protein1_preferred_name": "ARF5",
+    "protein2_preferred_name": "COPB1"
+  },
+  {
+    "protein1": "ENSP00000000233",
+    "protein2": "ENSP00000262305",
+    "combined_score": 657,
+    "protein1_preferred_name": "ARF5",
+    "protein2_preferred_name": "RAB11FIP3"
+  },
+  {
+    "protein1": "ENSP00000000233",
+    "protein2": "ENSP00000262455",
+    "combined_score": 531,
+    "protein1_preferred_name": "ARF5",
+    "protein2_preferred_name": "ERP44"
+  },
+  {
+    "protein1": "ENSP00000000233",
+    "protein2": "ENSP00000264028",
+    "combined_score": 554,
+    "protein1_preferred_name": "ARF5",
+    "protein2_preferred_name": "ARCN1"
+  },
+  {
+    "protein1": "ENSP00000000233",
+    "protein2": "ENSP00000306010",
+    "combined_score": 675,
+    "protein1_preferred_name": "ARF5",
+    "protein2_preferred_name": "ARF4"
+  },
+  {
+    "protein1": "ENSP00000000233",
+    "protein2": "ENSP00000325002",
+    "combined_score": 604,
+    "protein1_preferred_name": "ARF5",
+    "protein2_preferred_name": "COPG1"
+  },
+  {
+    "protein1": "ENSP00000000233",
+    "protein2": "ENSP00000329419",
+    "combined_score": 581,
+    "protein1_preferred_name": "ARF5",
+    "protein2_preferred_name": "COPB2"
+  },
+  {
+    "protein1": "ENSP00000000233",
+    "protein2": "ENSP00000357048",
+    "combined_score": 610,
+    "protein1_preferred_name": "ARF5",
+    "protein2_preferred_name": "COPA"
+  },
+  {
+    "protein1": "ENSP00000000233",
+    "protein2": "ENSP00000359000",
+    "combined_score": 630,
+    "protein1_preferred_name": "ARF5",
+    "protein2_preferred_name": "GBF1"
+  },
+  {
+    "protein1": "ENSP00000000233",
+    "protein2": "ENSP00000402346",
+    "combined_score": 604,
+    "protein1_preferred_name": "ARF5",
+    "protein2_preferred_name": "COPG2"
+  },
+  {
+    "protein1": "ENSP00000000233",
+    "protein2": "ENSP00000440005",
+    "combined_score": 625,
+    "protein1_preferred_name": "ARF5",
+    "protein2_preferred_name": "ARF1"
+  },
+  {
+    "protein1": "ENSP00000000233",
+    "protein2": "ENSP00000449270",
+    "combined_score": 616,
+    "protein1_preferred_name": "ARF5",
+    "protein2_preferred_name": "COPZ1"
+  },
+  {
+    "protein1": "ENSP00000000233",
+    "protein2": "ENSP00000469035",
+    "combined_score": 580,
+    "protein1_preferred_name": "ARF5",
+    "protein2_preferred_name": "COPE"
+  },
+  {
+    "protein1": "ENSP00000000233",
+    "protein2": "ENSP00000480707",
+    "combined_score": 516,
+    "protein1_preferred_name": "ARF5",
+    "protein2_preferred_name": "COPZ2"
+  },
+  {
+    "protein1": "ENSP00000000233",
+    "protein2": "ENSP00000483825",
+    "combined_score": 562,
+    "protein1_preferred_name": "ARF5",
+    "protein2_preferred_name": "IKBKG"
+  },
+  {
+    "protein1": "ENSP00000219479",
+    "protein2": "ENSP00000239690",
+    "combined_score": 619,
+    "protein1_preferred_name": "NME4",
+    "protein2_preferred_name": "NUDCD1"
+  },
+  {
+    "protein1": "ENSP00000239690",
+    "protein2": "ENSP00000249923",
+    "combined_score": 667,
+    "protein1_preferred_name": "NUDCD1",
+    "protein2_preferred_name": "COPB1"
+  },
+  {
+    "protein1": "ENSP00000239690",
+    "protein2": "ENSP00000264028",
+    "combined_score": 667,
+    "protein1_preferred_name": "NUDCD1",
+    "protein2_preferred_name": "ARCN1"
+  },
+  {
+    "protein1": "ENSP00000239690",
+    "protein2": "ENSP00000312442",
+    "combined_score": 619,
+    "protein1_preferred_name": "NUDCD1",
+    "protein2_preferred_name": "AP1G2"
+  },
+  {
+    "protein1": "ENSP00000239690",
+    "protein2": "ENSP00000325002",
+    "combined_score": 637,
+    "protein1_preferred_name": "NUDCD1",
+    "protein2_preferred_name": "COPG1"
+  },
+  {
+    "protein1": "ENSP00000239690",
+    "protein2": "ENSP00000357048",
+    "combined_score": 682,
+    "protein1_preferred_name": "NUDCD1",
+    "protein2_preferred_name": "COPA"
+  },
+  {
+    "protein1": "ENSP00000239690",
+    "protein2": "ENSP00000402346",
+    "combined_score": 682,
+    "protein1_preferred_name": "NUDCD1",
+    "protein2_preferred_name": "COPG2"
+  },
+  {
+    "protein1": "ENSP00000239690",
+    "protein2": "ENSP00000434412",
+    "combined_score": 619,
+    "protein1_preferred_name": "NUDCD1",
+    "protein2_preferred_name": "SERPINH1"
+  },
+  {
+    "protein1": "ENSP00000239690",
+    "protein2": "ENSP00000449270",
+    "combined_score": 517,
+    "protein1_preferred_name": "NUDCD1",
+    "protein2_preferred_name": "COPZ1"
+  },
+  {
+    "protein1": "ENSP00000249923",
+    "protein2": "ENSP00000256682",
+    "combined_score": 565,
+    "protein1_preferred_name": "COPB1",
+    "protein2_preferred_name": "ARF3"
+  },
+  {
+    "protein1": "ENSP00000249923",
+    "protein2": "ENSP00000263245",
+    "combined_score": 677,
+    "protein1_preferred_name": "COPB1",
+    "protein2_preferred_name": "ARFGAP3"
+  },
+  {
+    "protein1": "ENSP00000249923",
+    "protein2": "ENSP00000264028",
+    "combined_score": 999,
+    "protein1_preferred_name": "COPB1",
+    "protein2_preferred_name": "ARCN1"
+  },
+  {
+    "protein1": "ENSP00000249923",
+    "protein2": "ENSP00000299705",
+    "combined_score": 720,
+    "protein1_preferred_name": "COPB1",
+    "protein2_preferred_name": "TMED3"
+  },
+  {
+    "protein1": "ENSP00000249923",
+    "protein2": "ENSP00000303145",
+    "combined_score": 725,
+    "protein1_preferred_name": "COPB1",
+    "protein2_preferred_name": "TMED10"
+  },
+  {
+    "protein1": "ENSP00000249923",
+    "protein2": "ENSP00000306010",
+    "combined_score": 565,
+    "protein1_preferred_name": "COPB1",
+    "protein2_preferred_name": "ARF4"
+  },
+  {
+    "protein1": "ENSP00000249923",
+    "protein2": "ENSP00000325002",
+    "combined_score": 998,
+    "protein1_preferred_name": "COPB1",
+    "protein2_preferred_name": "COPG1"
+  },
+  {
+    "protein1": "ENSP00000249923",
+    "protein2": "ENSP00000329419",
+    "combined_score": 999,
+    "protein1_preferred_name": "COPB1",
+    "protein2_preferred_name": "COPB2"
+  },
+  {
+    "protein1": "ENSP00000249923",
+    "protein2": "ENSP00000329471",
+    "combined_score": 730,
+    "protein1_preferred_name": "COPB1",
+    "protein2_preferred_name": "KDELR1"
+  },
+  {
+    "protein1": "ENSP00000249923",
+    "protein2": "ENSP00000330945",
+    "combined_score": 630,
+    "protein1_preferred_name": "COPB1",
+    "protein2_preferred_name": "TMED9"
+  },
+  {
+    "protein1": "ENSP00000249923",
+    "protein2": "ENSP00000357048",
+    "combined_score": 999,
+    "protein1_preferred_name": "COPB1",
+    "protein2_preferred_name": "COPA"
+  },
+  {
+    "protein1": "ENSP00000249923",
+    "protein2": "ENSP00000359000",
+    "combined_score": 630,
+    "protein1_preferred_name": "COPB1",
+    "protein2_preferred_name": "GBF1"
+  },
+  {
+    "protein1": "ENSP00000249923",
+    "protein2": "ENSP00000402346",
+    "combined_score": 989,
+    "protein1_preferred_name": "COPB1",
+    "protein2_preferred_name": "COPG2"
+  },
+  {
+    "protein1": "ENSP00000249923",
+    "protein2": "ENSP00000405926",
+    "combined_score": 720,
+    "protein1_preferred_name": "COPB1",
+    "protein2_preferred_name": "TMED7"
+  },
+  {
+    "protein1": "ENSP00000249923",
+    "protein2": "ENSP00000406047",
+    "combined_score": 536,
+    "protein1_preferred_name": "COPB1",
+    "protein2_preferred_name": "TSGA13"
+  },
+  {
+    "protein1": "ENSP00000249923",
+    "protein2": "ENSP00000434442",
+    "combined_score": 677,
+    "protein1_preferred_name": "COPB1",
+    "protein2_preferred_name": "ARFGAP2"
+  },
+  {
+    "protein1": "ENSP00000249923",
+    "protein2": "ENSP00000440005",
+    "combined_score": 892,
+    "protein1_preferred_name": "COPB1",
+    "protein2_preferred_name": "ARF1"
+  },
+  {
+    "protein1": "ENSP00000249923",
+    "protein2": "ENSP00000449270",
+    "combined_score": 999,
+    "protein1_preferred_name": "COPB1",
+    "protein2_preferred_name": "COPZ1"
+  },
+  {
+    "protein1": "ENSP00000249923",
+    "protein2": "ENSP00000469035",
+    "combined_score": 999,
+    "protein1_preferred_name": "COPB1",
+    "protein2_preferred_name": "COPE"
+  },
+  {
+    "protein1": "ENSP00000249923",
+    "protein2": "ENSP00000480707",
+    "combined_score": 945,
+    "protein1_preferred_name": "COPB1",
+    "protein2_preferred_name": "COPZ2"
+  },
+  {
+    "protein1": "ENSP00000255194",
+    "protein2": "ENSP00000312442",
+    "combined_score": 706,
+    "protein1_preferred_name": "AP3B1",
+    "protein2_preferred_name": "AP1G2"
+  },
+  {
+    "protein1": "ENSP00000255194",
+    "protein2": "ENSP00000377148",
+    "combined_score": 706,
+    "protein1_preferred_name": "AP3B1",
+    "protein2_preferred_name": "AP1G1"
+  },
+  {
+    "protein1": "ENSP00000255194",
+    "protein2": "ENSP00000440005",
+    "combined_score": 649,
+    "protein1_preferred_name": "AP3B1",
+    "protein2_preferred_name": "ARF1"
+  },
+  {
+    "protein1": "ENSP00000256682",
+    "protein2": "ENSP00000264028",
+    "combined_score": 554,
+    "protein1_preferred_name": "ARF3",
+    "protein2_preferred_name": "ARCN1"
+  },
+  {
+    "protein1": "ENSP00000256682",
+    "protein2": "ENSP00000306010",
+    "combined_score": 610,
+    "protein1_preferred_name": "ARF3",
+    "protein2_preferred_name": "ARF4"
+  },
+  {
+    "protein1": "ENSP00000256682",
+    "protein2": "ENSP00000325002",
+    "combined_score": 604,
+    "protein1_preferred_name": "ARF3",
+    "protein2_preferred_name": "COPG1"
+  },
+  {
+    "protein1": "ENSP00000256682",
+    "protein2": "ENSP00000357048",
+    "combined_score": 535,
+    "protein1_preferred_name": "ARF3",
+    "protein2_preferred_name": "COPA"
+  },
+  {
+    "protein1": "ENSP00000256682",
+    "protein2": "ENSP00000357869",
+    "combined_score": 760,
+    "protein1_preferred_name": "ARF3",
+    "protein2_preferred_name": "PI4KB"
+  },
+  {
+    "protein1": "ENSP00000256682",
+    "protein2": "ENSP00000359000",
+    "combined_score": 630,
+    "protein1_preferred_name": "ARF3",
+    "protein2_preferred_name": "GBF1"
+  },
+  {
+    "protein1": "ENSP00000256682",
+    "protein2": "ENSP00000371175",
+    "combined_score": 644,
+    "protein1_preferred_name": "ARF3",
+    "protein2_preferred_name": "GGA1"
+  },
+  {
+    "protein1": "ENSP00000256682",
+    "protein2": "ENSP00000402346",
+    "combined_score": 604,
+    "protein1_preferred_name": "ARF3",
+    "protein2_preferred_name": "COPG2"
+  },
+  {
+    "protein1": "ENSP00000256682",
+    "protein2": "ENSP00000440005",
+    "combined_score": 842,
+    "protein1_preferred_name": "ARF3",
+    "protein2_preferred_name": "ARF1"
+  },
+  {
+    "protein1": "ENSP00000256682",
+    "protein2": "ENSP00000449270",
+    "combined_score": 547,
+    "protein1_preferred_name": "ARF3",
+    "protein2_preferred_name": "COPZ1"
+  },
+  {
+    "protein1": "ENSP00000256682",
+    "protein2": "ENSP00000480707",
+    "combined_score": 516,
+    "protein1_preferred_name": "ARF3",
+    "protein2_preferred_name": "COPZ2"
+  },
+  {
+    "protein1": "ENSP00000258739",
+    "protein2": "ENSP00000329471",
+    "combined_score": 900,
+    "protein1_preferred_name": "KDELR2",
+    "protein2_preferred_name": "KDELR1"
+  },
+  {
+    "protein1": "ENSP00000258739",
+    "protein2": "ENSP00000359000",
+    "combined_score": 560,
+    "protein1_preferred_name": "KDELR2",
+    "protein2_preferred_name": "GBF1"
+  },
+  {
+    "protein1": "ENSP00000258739",
+    "protein2": "ENSP00000386918",
+    "combined_score": 900,
+    "protein1_preferred_name": "KDELR2",
+    "protein2_preferred_name": "KDELR3"
+  },
+  {
+    "protein1": "ENSP00000261890",
+    "protein2": "ENSP00000262305",
+    "combined_score": 999,
+    "protein1_preferred_name": "RAB11A",
+    "protein2_preferred_name": "RAB11FIP3"
+  },
+  {
+    "protein1": "ENSP00000261890",
+    "protein2": "ENSP00000300935",
+    "combined_score": 919,
+    "protein1_preferred_name": "RAB11A",
+    "protein2_preferred_name": "RAB8A"
+  },
+  {
+    "protein1": "ENSP00000261890",
+    "protein2": "ENSP00000306010",
+    "combined_score": 795,
+    "protein1_preferred_name": "RAB11A",
+    "protein2_preferred_name": "ARF4"
+  },
+  {
+    "protein1": "ENSP00000261890",
+    "protein2": "ENSP00000310226",
+    "combined_score": 593,
+    "protein1_preferred_name": "RAB11A",
+    "protein2_preferred_name": "RAB1B"
+  },
+  {
+    "protein1": "ENSP00000261890",
+    "protein2": "ENSP00000331342",
+    "combined_score": 989,
+    "protein1_preferred_name": "RAB11A",
+    "protein2_preferred_name": "RAB11FIP1"
+  },
+  {
+    "protein1": "ENSP00000261890",
+    "protein2": "ENSP00000357869",
+    "combined_score": 986,
+    "protein1_preferred_name": "RAB11A",
+    "protein2_preferred_name": "PI4KB"
+  },
+  {
+    "protein1": "ENSP00000261890",
+    "protein2": "ENSP00000387286",
+    "combined_score": 659,
+    "protein1_preferred_name": "RAB11A",
+    "protein2_preferred_name": "RAB1A"
+  },
+  {
+    "protein1": "ENSP00000261890",
+    "protein2": "ENSP00000482620",
+    "combined_score": 864,
+    "protein1_preferred_name": "RAB11A",
+    "protein2_preferred_name": "RAB11FIP4"
+  },
+  {
+    "protein1": "ENSP00000261890",
+    "protein2": "ENSP00000483825",
+    "combined_score": 992,
+    "protein1_preferred_name": "RAB11A",
+    "protein2_preferred_name": "IKBKG"
+  },
+  {
+    "protein1": "ENSP00000261942",
+    "protein2": "ENSP00000330945",
+    "combined_score": 616,
+    "protein1_preferred_name": "FAF2",
+    "protein2_preferred_name": "TMED9"
+  },
+  {
+    "protein1": "ENSP00000261942",
+    "protein2": "ENSP00000434412",
+    "combined_score": 616,
+    "protein1_preferred_name": "FAF2",
+    "protein2_preferred_name": "SERPINH1"
+  },
+  {
+    "protein1": "ENSP00000262225",
+    "protein2": "ENSP00000299705",
+    "combined_score": 848,
+    "protein1_preferred_name": "TMED2",
+    "protein2_preferred_name": "TMED3"
+  },
+  {
+    "protein1": "ENSP00000262225",
+    "protein2": "ENSP00000303145",
+    "combined_score": 995,
+    "protein1_preferred_name": "TMED2",
+    "protein2_preferred_name": "TMED10"
+  },
+  {
+    "protein1": "ENSP00000262225",
+    "protein2": "ENSP00000303366",
+    "combined_score": 800,
+    "protein1_preferred_name": "TMED2",
+    "protein2_preferred_name": "LMAN2"
+  },
+  {
+    "protein1": "ENSP00000262225",
+    "protein2": "ENSP00000310226",
+    "combined_score": 650,
+    "protein1_preferred_name": "TMED2",
+    "protein2_preferred_name": "RAB1B"
+  },
+  {
+    "protein1": "ENSP00000262225",
+    "protein2": "ENSP00000330945",
+    "combined_score": 911,
+    "protein1_preferred_name": "TMED2",
+    "protein2_preferred_name": "TMED9"
+  },
+  {
+    "protein1": "ENSP00000262225",
+    "protein2": "ENSP00000357048",
+    "combined_score": 575,
+    "protein1_preferred_name": "TMED2",
+    "protein2_preferred_name": "COPA"
+  },
+  {
+    "protein1": "ENSP00000262225",
+    "protein2": "ENSP00000361057",
+    "combined_score": 726,
+    "protein1_preferred_name": "TMED2",
+    "protein2_preferred_name": "SURF4"
+  },
+  {
+    "protein1": "ENSP00000262225",
+    "protein2": "ENSP00000387286",
+    "combined_score": 666,
+    "protein1_preferred_name": "TMED2",
+    "protein2_preferred_name": "RAB1A"
+  },
+  {
+    "protein1": "ENSP00000262225",
+    "protein2": "ENSP00000405926",
+    "combined_score": 829,
+    "protein1_preferred_name": "TMED2",
+    "protein2_preferred_name": "TMED7"
+  },
+  {
+    "protein1": "ENSP00000262225",
+    "protein2": "ENSP00000440005",
+    "combined_score": 677,
+    "protein1_preferred_name": "TMED2",
+    "protein2_preferred_name": "ARF1"
+  },
+  {
+    "protein1": "ENSP00000262225",
+    "protein2": "ENSP00000463393",
+    "combined_score": 580,
+    "protein1_preferred_name": "TMED2",
+    "protein2_preferred_name": "SEC22B"
+  },
+  {
+    "protein1": "ENSP00000262305",
+    "protein2": "ENSP00000306010",
+    "combined_score": 776,
+    "protein1_preferred_name": "RAB11FIP3",
+    "protein2_preferred_name": "ARF4"
+  },
+  {
+    "protein1": "ENSP00000262305",
+    "protein2": "ENSP00000357869",
+    "combined_score": 661,
+    "protein1_preferred_name": "RAB11FIP3",
+    "protein2_preferred_name": "PI4KB"
+  },
+  {
+    "protein1": "ENSP00000262305",
+    "protein2": "ENSP00000482620",
+    "combined_score": 939,
+    "protein1_preferred_name": "RAB11FIP3",
+    "protein2_preferred_name": "RAB11FIP4"
+  },
+  {
+    "protein1": "ENSP00000263245",
+    "protein2": "ENSP00000264028",
+    "combined_score": 657,
+    "protein1_preferred_name": "ARFGAP3",
+    "protein2_preferred_name": "ARCN1"
+  },
+  {
+    "protein1": "ENSP00000263245",
+    "protein2": "ENSP00000325002",
+    "combined_score": 708,
+    "protein1_preferred_name": "ARFGAP3",
+    "protein2_preferred_name": "COPG1"
+  },
+  {
+    "protein1": "ENSP00000263245",
+    "protein2": "ENSP00000329419",
+    "combined_score": 776,
+    "protein1_preferred_name": "ARFGAP3",
+    "protein2_preferred_name": "COPB2"
+  },
+  {
+    "protein1": "ENSP00000263245",
+    "protein2": "ENSP00000357048",
+    "combined_score": 677,
+    "protein1_preferred_name": "ARFGAP3",
+    "protein2_preferred_name": "COPA"
+  },
+  {
+    "protein1": "ENSP00000263245",
+    "protein2": "ENSP00000402346",
+    "combined_score": 708,
+    "protein1_preferred_name": "ARFGAP3",
+    "protein2_preferred_name": "COPG2"
+  },
+  {
+    "protein1": "ENSP00000263245",
+    "protein2": "ENSP00000434442",
+    "combined_score": 591,
+    "protein1_preferred_name": "ARFGAP3",
+    "protein2_preferred_name": "ARFGAP2"
+  },
+  {
+    "protein1": "ENSP00000263245",
+    "protein2": "ENSP00000440005",
+    "combined_score": 587,
+    "protein1_preferred_name": "ARFGAP3",
+    "protein2_preferred_name": "ARF1"
+  },
+  {
+    "protein1": "ENSP00000263245",
+    "protein2": "ENSP00000449270",
+    "combined_score": 605,
+    "protein1_preferred_name": "ARFGAP3",
+    "protein2_preferred_name": "COPZ1"
+  },
+  {
+    "protein1": "ENSP00000263245",
+    "protein2": "ENSP00000480707",
+    "combined_score": 605,
+    "protein1_preferred_name": "ARFGAP3",
+    "protein2_preferred_name": "COPZ2"
+  },
+  {
+    "protein1": "ENSP00000264028",
+    "protein2": "ENSP00000299705",
+    "combined_score": 720,
+    "protein1_preferred_name": "ARCN1",
+    "protein2_preferred_name": "TMED3"
+  },
+  {
+    "protein1": "ENSP00000264028",
+    "protein2": "ENSP00000303145",
+    "combined_score": 716,
+    "protein1_preferred_name": "ARCN1",
+    "protein2_preferred_name": "TMED10"
+  },
+  {
+    "protein1": "ENSP00000264028",
+    "protein2": "ENSP00000306010",
+    "combined_score": 554,
+    "protein1_preferred_name": "ARCN1",
+    "protein2_preferred_name": "ARF4"
+  },
+  {
+    "protein1": "ENSP00000264028",
+    "protein2": "ENSP00000314615",
+    "combined_score": 521,
+    "protein1_preferred_name": "ARCN1",
+    "protein2_preferred_name": "ARFGAP1"
+  },
+  {
+    "protein1": "ENSP00000264028",
+    "protein2": "ENSP00000325002",
+    "combined_score": 996,
+    "protein1_preferred_name": "ARCN1",
+    "protein2_preferred_name": "COPG1"
+  },
+  {
+    "protein1": "ENSP00000264028",
+    "protein2": "ENSP00000329419",
+    "combined_score": 999,
+    "protein1_preferred_name": "ARCN1",
+    "protein2_preferred_name": "COPB2"
+  },
+  {
+    "protein1": "ENSP00000264028",
+    "protein2": "ENSP00000330945",
+    "combined_score": 630,
+    "protein1_preferred_name": "ARCN1",
+    "protein2_preferred_name": "TMED9"
+  },
+  {
+    "protein1": "ENSP00000264028",
+    "protein2": "ENSP00000357048",
+    "combined_score": 999,
+    "protein1_preferred_name": "ARCN1",
+    "protein2_preferred_name": "COPA"
+  },
+  {
+    "protein1": "ENSP00000264028",
+    "protein2": "ENSP00000402346",
+    "combined_score": 972,
+    "protein1_preferred_name": "ARCN1",
+    "protein2_preferred_name": "COPG2"
+  },
+  {
+    "protein1": "ENSP00000264028",
+    "protein2": "ENSP00000405926",
+    "combined_score": 720,
+    "protein1_preferred_name": "ARCN1",
+    "protein2_preferred_name": "TMED7"
+  },
+  {
+    "protein1": "ENSP00000264028",
+    "protein2": "ENSP00000434442",
+    "combined_score": 658,
+    "protein1_preferred_name": "ARCN1",
+    "protein2_preferred_name": "ARFGAP2"
+  },
+  {
+    "protein1": "ENSP00000264028",
+    "protein2": "ENSP00000440005",
+    "combined_score": 554,
+    "protein1_preferred_name": "ARCN1",
+    "protein2_preferred_name": "ARF1"
+  },
+  {
+    "protein1": "ENSP00000264028",
+    "protein2": "ENSP00000449270",
+    "combined_score": 999,
+    "protein1_preferred_name": "ARCN1",
+    "protein2_preferred_name": "COPZ1"
+  },
+  {
+    "protein1": "ENSP00000264028",
+    "protein2": "ENSP00000463393",
+    "combined_score": 502,
+    "protein1_preferred_name": "ARCN1",
+    "protein2_preferred_name": "SEC22B"
+  },
+  {
+    "protein1": "ENSP00000264028",
+    "protein2": "ENSP00000469035",
+    "combined_score": 998,
+    "protein1_preferred_name": "ARCN1",
+    "protein2_preferred_name": "COPE"
+  },
+  {
+    "protein1": "ENSP00000264028",
+    "protein2": "ENSP00000480707",
+    "combined_score": 945,
+    "protein1_preferred_name": "ARCN1",
+    "protein2_preferred_name": "COPZ2"
+  },
+  {
+    "protein1": "ENSP00000264904",
+    "protein2": "ENSP00000310226",
+    "combined_score": 796,
+    "protein1_preferred_name": "USO1",
+    "protein2_preferred_name": "RAB1B"
+  },
+  {
+    "protein1": "ENSP00000264904",
+    "protein2": "ENSP00000359000",
+    "combined_score": 647,
+    "protein1_preferred_name": "USO1",
+    "protein2_preferred_name": "GBF1"
+  },
+  {
+    "protein1": "ENSP00000264904",
+    "protein2": "ENSP00000387286",
+    "combined_score": 946,
+    "protein1_preferred_name": "USO1",
+    "protein2_preferred_name": "RAB1A"
+  },
+  {
+    "protein1": "ENSP00000264904",
+    "protein2": "ENSP00000463393",
+    "combined_score": 614,
+    "protein1_preferred_name": "USO1",
+    "protein2_preferred_name": "SEC22B"
+  },
+  {
+    "protein1": "ENSP00000264904",
+    "protein2": "ENSP00000469035",
+    "combined_score": 552,
+    "protein1_preferred_name": "USO1",
+    "protein2_preferred_name": "COPE"
+  },
+  {
+    "protein1": "ENSP00000280706",
+    "protein2": "ENSP00000437783",
+    "combined_score": 757,
+    "protein1_preferred_name": "LDHAL6A",
+    "protein2_preferred_name": "LDHC"
+  },
+  {
+    "protein1": "ENSP00000280706",
+    "protein2": "ENSP00000445175",
+    "combined_score": 796,
+    "protein1_preferred_name": "LDHAL6A",
+    "protein2_preferred_name": "LDHA"
+  },
+  {
+    "protein1": "ENSP00000293441",
+    "protein2": "ENSP00000489407",
+    "combined_score": 971,
+    "protein1_preferred_name": "SHANK1",
+    "protein2_preferred_name": "SHANK3"
+  },
+  {
+    "protein1": "ENSP00000296557",
+    "protein2": "ENSP00000484121",
+    "combined_score": 578,
+    "protein1_preferred_name": "ARFIP1",
+    "protein2_preferred_name": "ARFIP2"
+  },
+  {
+    "protein1": "ENSP00000298910",
+    "protein2": "ENSP00000353444",
+    "combined_score": 654,
+    "protein1_preferred_name": "LRRK2",
+    "protein2_preferred_name": "RAB5B"
+  },
+  {
+    "protein1": "ENSP00000299705",
+    "protein2": "ENSP00000303145",
+    "combined_score": 904,
+    "protein1_preferred_name": "TMED3",
+    "protein2_preferred_name": "TMED10"
+  },
+  {
+    "protein1": "ENSP00000299705",
+    "protein2": "ENSP00000325002",
+    "combined_score": 720,
+    "protein1_preferred_name": "TMED3",
+    "protein2_preferred_name": "COPG1"
+  },
+  {
+    "protein1": "ENSP00000299705",
+    "protein2": "ENSP00000329419",
+    "combined_score": 720,
+    "protein1_preferred_name": "TMED3",
+    "protein2_preferred_name": "COPB2"
+  },
+  {
+    "protein1": "ENSP00000299705",
+    "protein2": "ENSP00000330945",
+    "combined_score": 786,
+    "protein1_preferred_name": "TMED3",
+    "protein2_preferred_name": "TMED9"
+  },
+  {
+    "protein1": "ENSP00000299705",
+    "protein2": "ENSP00000357048",
+    "combined_score": 720,
+    "protein1_preferred_name": "TMED3",
+    "protein2_preferred_name": "COPA"
+  },
+  {
+    "protein1": "ENSP00000299705",
+    "protein2": "ENSP00000402346",
+    "combined_score": 720,
+    "protein1_preferred_name": "TMED3",
+    "protein2_preferred_name": "COPG2"
+  },
+  {
+    "protein1": "ENSP00000299705",
+    "protein2": "ENSP00000405926",
+    "combined_score": 720,
+    "protein1_preferred_name": "TMED3",
+    "protein2_preferred_name": "TMED7"
+  },
+  {
+    "protein1": "ENSP00000299705",
+    "protein2": "ENSP00000449270",
+    "combined_score": 720,
+    "protein1_preferred_name": "TMED3",
+    "protein2_preferred_name": "COPZ1"
+  },
+  {
+    "protein1": "ENSP00000299705",
+    "protein2": "ENSP00000469035",
+    "combined_score": 720,
+    "protein1_preferred_name": "TMED3",
+    "protein2_preferred_name": "COPE"
+  },
+  {
+    "protein1": "ENSP00000299705",
+    "protein2": "ENSP00000480707",
+    "combined_score": 720,
+    "protein1_preferred_name": "TMED3",
+    "protein2_preferred_name": "COPZ2"
+  },
+  {
+    "protein1": "ENSP00000300935",
+    "protein2": "ENSP00000310226",
+    "combined_score": 650,
+    "protein1_preferred_name": "RAB8A",
+    "protein2_preferred_name": "RAB1B"
+  },
+  {
+    "protein1": "ENSP00000300935",
+    "protein2": "ENSP00000387286",
+    "combined_score": 680,
+    "protein1_preferred_name": "RAB8A",
+    "protein2_preferred_name": "RAB1A"
+  },
+  {
+    "protein1": "ENSP00000303145",
+    "protein2": "ENSP00000303366",
+    "combined_score": 732,
+    "protein1_preferred_name": "TMED10",
+    "protein2_preferred_name": "LMAN2"
+  },
+  {
+    "protein1": "ENSP00000303145",
+    "protein2": "ENSP00000310226",
+    "combined_score": 535,
+    "protein1_preferred_name": "TMED10",
+    "protein2_preferred_name": "RAB1B"
+  },
+  {
+    "protein1": "ENSP00000303145",
+    "protein2": "ENSP00000325002",
+    "combined_score": 716,
+    "protein1_preferred_name": "TMED10",
+    "protein2_preferred_name": "COPG1"
+  },
+  {
+    "protein1": "ENSP00000303145",
+    "protein2": "ENSP00000329419",
+    "combined_score": 786,
+    "protein1_preferred_name": "TMED10",
+    "protein2_preferred_name": "COPB2"
+  },
+  {
+    "protein1": "ENSP00000303145",
+    "protein2": "ENSP00000330945",
+    "combined_score": 961,
+    "protein1_preferred_name": "TMED10",
+    "protein2_preferred_name": "TMED9"
+  },
+  {
+    "protein1": "ENSP00000303145",
+    "protein2": "ENSP00000357048",
+    "combined_score": 726,
+    "protein1_preferred_name": "TMED10",
+    "protein2_preferred_name": "COPA"
+  },
+  {
+    "protein1": "ENSP00000303145",
+    "protein2": "ENSP00000361057",
+    "combined_score": 722,
+    "protein1_preferred_name": "TMED10",
+    "protein2_preferred_name": "SURF4"
+  },
+  {
+    "protein1": "ENSP00000303145",
+    "protein2": "ENSP00000387286",
+    "combined_score": 675,
+    "protein1_preferred_name": "TMED10",
+    "protein2_preferred_name": "RAB1A"
+  },
+  {
+    "protein1": "ENSP00000303145",
+    "protein2": "ENSP00000402346",
+    "combined_score": 637,
+    "protein1_preferred_name": "TMED10",
+    "protein2_preferred_name": "COPG2"
+  },
+  {
+    "protein1": "ENSP00000303145",
+    "protein2": "ENSP00000405926",
+    "combined_score": 783,
+    "protein1_preferred_name": "TMED10",
+    "protein2_preferred_name": "TMED7"
+  },
+  {
+    "protein1": "ENSP00000303145",
+    "protein2": "ENSP00000449270",
+    "combined_score": 646,
+    "protein1_preferred_name": "TMED10",
+    "protein2_preferred_name": "COPZ1"
+  },
+  {
+    "protein1": "ENSP00000303145",
+    "protein2": "ENSP00000463393",
+    "combined_score": 646,
+    "protein1_preferred_name": "TMED10",
+    "protein2_preferred_name": "SEC22B"
+  },
+  {
+    "protein1": "ENSP00000303145",
+    "protein2": "ENSP00000469035",
+    "combined_score": 630,
+    "protein1_preferred_name": "TMED10",
+    "protein2_preferred_name": "COPE"
+  },
+  {
+    "protein1": "ENSP00000306010",
+    "protein2": "ENSP00000325002",
+    "combined_score": 604,
+    "protein1_preferred_name": "ARF4",
+    "protein2_preferred_name": "COPG1"
+  },
+  {
+    "protein1": "ENSP00000306010",
+    "protein2": "ENSP00000329419",
+    "combined_score": 581,
+    "protein1_preferred_name": "ARF4",
+    "protein2_preferred_name": "COPB2"
+  },
+  {
+    "protein1": "ENSP00000306010",
+    "protein2": "ENSP00000357048",
+    "combined_score": 535,
+    "protein1_preferred_name": "ARF4",
+    "protein2_preferred_name": "COPA"
+  },
+  {
+    "protein1": "ENSP00000306010",
+    "protein2": "ENSP00000359000",
+    "combined_score": 630,
+    "protein1_preferred_name": "ARF4",
+    "protein2_preferred_name": "GBF1"
+  },
+  {
+    "protein1": "ENSP00000306010",
+    "protein2": "ENSP00000402346",
+    "combined_score": 604,
+    "protein1_preferred_name": "ARF4",
+    "protein2_preferred_name": "COPG2"
+  },
+  {
+    "protein1": "ENSP00000306010",
+    "protein2": "ENSP00000440005",
+    "combined_score": 671,
+    "protein1_preferred_name": "ARF4",
+    "protein2_preferred_name": "ARF1"
+  },
+  {
+    "protein1": "ENSP00000306010",
+    "protein2": "ENSP00000449270",
+    "combined_score": 605,
+    "protein1_preferred_name": "ARF4",
+    "protein2_preferred_name": "COPZ1"
+  },
+  {
+    "protein1": "ENSP00000306010",
+    "protein2": "ENSP00000469035",
+    "combined_score": 580,
+    "protein1_preferred_name": "ARF4",
+    "protein2_preferred_name": "COPE"
+  },
+  {
+    "protein1": "ENSP00000306010",
+    "protein2": "ENSP00000480707",
+    "combined_score": 516,
+    "protein1_preferred_name": "ARF4",
+    "protein2_preferred_name": "COPZ2"
+  },
+  {
+    "protein1": "ENSP00000306010",
+    "protein2": "ENSP00000483825",
+    "combined_score": 926,
+    "protein1_preferred_name": "ARF4",
+    "protein2_preferred_name": "IKBKG"
+  },
+  {
+    "protein1": "ENSP00000310226",
+    "protein2": "ENSP00000359000",
+    "combined_score": 733,
+    "protein1_preferred_name": "RAB1B",
+    "protein2_preferred_name": "GBF1"
+  },
+  {
+    "protein1": "ENSP00000310226",
+    "protein2": "ENSP00000387286",
+    "combined_score": 968,
+    "protein1_preferred_name": "RAB1B",
+    "protein2_preferred_name": "RAB1A"
+  },
+  {
+    "protein1": "ENSP00000310226",
+    "protein2": "ENSP00000405926",
+    "combined_score": 644,
+    "protein1_preferred_name": "RAB1B",
+    "protein2_preferred_name": "TMED7"
+  },
+  {
+    "protein1": "ENSP00000310226",
+    "protein2": "ENSP00000440005",
+    "combined_score": 590,
+    "protein1_preferred_name": "RAB1B",
+    "protein2_preferred_name": "ARF1"
+  },
+  {
+    "protein1": "ENSP00000312442",
+    "protein2": "ENSP00000377148",
+    "combined_score": 900,
+    "protein1_preferred_name": "AP1G2",
+    "protein2_preferred_name": "AP1G1"
+  },
+  {
+    "protein1": "ENSP00000314615",
+    "protein2": "ENSP00000329471",
+    "combined_score": 730,
+    "protein1_preferred_name": "ARFGAP1",
+    "protein2_preferred_name": "KDELR1"
+  },
+  {
+    "protein1": "ENSP00000314615",
+    "protein2": "ENSP00000357048",
+    "combined_score": 630,
+    "protein1_preferred_name": "ARFGAP1",
+    "protein2_preferred_name": "COPA"
+  },
+  {
+    "protein1": "ENSP00000314615",
+    "protein2": "ENSP00000359000",
+    "combined_score": 565,
+    "protein1_preferred_name": "ARFGAP1",
+    "protein2_preferred_name": "GBF1"
+  },
+  {
+    "protein1": "ENSP00000314615",
+    "protein2": "ENSP00000402346",
+    "combined_score": 589,
+    "protein1_preferred_name": "ARFGAP1",
+    "protein2_preferred_name": "COPG2"
+  },
+  {
+    "protein1": "ENSP00000314615",
+    "protein2": "ENSP00000440005",
+    "combined_score": 847,
+    "protein1_preferred_name": "ARFGAP1",
+    "protein2_preferred_name": "ARF1"
+  },
+  {
+    "protein1": "ENSP00000325002",
+    "protein2": "ENSP00000329419",
+    "combined_score": 998,
+    "protein1_preferred_name": "COPG1",
+    "protein2_preferred_name": "COPB2"
+  },
+  {
+    "protein1": "ENSP00000325002",
+    "protein2": "ENSP00000330945",
+    "combined_score": 630,
+    "protein1_preferred_name": "COPG1",
+    "protein2_preferred_name": "TMED9"
+  },
+  {
+    "protein1": "ENSP00000325002",
+    "protein2": "ENSP00000357048",
+    "combined_score": 970,
+    "protein1_preferred_name": "COPG1",
+    "protein2_preferred_name": "COPA"
+  },
+  {
+    "protein1": "ENSP00000325002",
+    "protein2": "ENSP00000359000",
+    "combined_score": 793,
+    "protein1_preferred_name": "COPG1",
+    "protein2_preferred_name": "GBF1"
+  },
+  {
+    "protein1": "ENSP00000325002",
+    "protein2": "ENSP00000402346",
+    "combined_score": 952,
+    "protein1_preferred_name": "COPG1",
+    "protein2_preferred_name": "COPG2"
+  },
+  {
+    "protein1": "ENSP00000325002",
+    "protein2": "ENSP00000405926",
+    "combined_score": 720,
+    "protein1_preferred_name": "COPG1",
+    "protein2_preferred_name": "TMED7"
+  },
+  {
+    "protein1": "ENSP00000325002",
+    "protein2": "ENSP00000434442",
+    "combined_score": 708,
+    "protein1_preferred_name": "COPG1",
+    "protein2_preferred_name": "ARFGAP2"
+  },
+  {
+    "protein1": "ENSP00000325002",
+    "protein2": "ENSP00000440005",
+    "combined_score": 708,
+    "protein1_preferred_name": "COPG1",
+    "protein2_preferred_name": "ARF1"
+  },
+  {
+    "protein1": "ENSP00000325002",
+    "protein2": "ENSP00000449270",
+    "combined_score": 981,
+    "protein1_preferred_name": "COPG1",
+    "protein2_preferred_name": "COPZ1"
+  },
+  {
+    "protein1": "ENSP00000325002",
+    "protein2": "ENSP00000469035",
+    "combined_score": 967,
+    "protein1_preferred_name": "COPG1",
+    "protein2_preferred_name": "COPE"
+  },
+  {
+    "protein1": "ENSP00000325002",
+    "protein2": "ENSP00000480707",
+    "combined_score": 949,
+    "protein1_preferred_name": "COPG1",
+    "protein2_preferred_name": "COPZ2"
+  },
+  {
+    "protein1": "ENSP00000329419",
+    "protein2": "ENSP00000330945",
+    "combined_score": 698,
+    "protein1_preferred_name": "COPB2",
+    "protein2_preferred_name": "TMED9"
+  },
+  {
+    "protein1": "ENSP00000329419",
+    "protein2": "ENSP00000357048",
+    "combined_score": 999,
+    "protein1_preferred_name": "COPB2",
+    "protein2_preferred_name": "COPA"
+  },
+  {
+    "protein1": "ENSP00000329419",
+    "protein2": "ENSP00000361057",
+    "combined_score": 577,
+    "protein1_preferred_name": "COPB2",
+    "protein2_preferred_name": "SURF4"
+  },
+  {
+    "protein1": "ENSP00000329419",
+    "protein2": "ENSP00000402346",
+    "combined_score": 995,
+    "protein1_preferred_name": "COPB2",
+    "protein2_preferred_name": "COPG2"
+  },
+  {
+    "protein1": "ENSP00000329419",
+    "protein2": "ENSP00000405926",
+    "combined_score": 900,
+    "protein1_preferred_name": "COPB2",
+    "protein2_preferred_name": "TMED7"
+  },
+  {
+    "protein1": "ENSP00000329419",
+    "protein2": "ENSP00000406047",
+    "combined_score": 535,
+    "protein1_preferred_name": "COPB2",
+    "protein2_preferred_name": "TSGA13"
+  },
+  {
+    "protein1": "ENSP00000329419",
+    "protein2": "ENSP00000434442",
+    "combined_score": 776,
+    "protein1_preferred_name": "COPB2",
+    "protein2_preferred_name": "ARFGAP2"
+  },
+  {
+    "protein1": "ENSP00000329419",
+    "protein2": "ENSP00000449270",
+    "combined_score": 999,
+    "protein1_preferred_name": "COPB2",
+    "protein2_preferred_name": "COPZ1"
+  },
+  {
+    "protein1": "ENSP00000329419",
+    "protein2": "ENSP00000463393",
+    "combined_score": 518,
+    "protein1_preferred_name": "COPB2",
+    "protein2_preferred_name": "SEC22B"
+  },
+  {
+    "protein1": "ENSP00000329419",
+    "protein2": "ENSP00000469035",
+    "combined_score": 999,
+    "protein1_preferred_name": "COPB2",
+    "protein2_preferred_name": "COPE"
+  },
+  {
+    "protein1": "ENSP00000329419",
+    "protein2": "ENSP00000480707",
+    "combined_score": 980,
+    "protein1_preferred_name": "COPB2",
+    "protein2_preferred_name": "COPZ2"
+  },
+  {
+    "protein1": "ENSP00000329471",
+    "protein2": "ENSP00000359000",
+    "combined_score": 560,
+    "protein1_preferred_name": "KDELR1",
+    "protein2_preferred_name": "GBF1"
+  },
+  {
+    "protein1": "ENSP00000329471",
+    "protein2": "ENSP00000361057",
+    "combined_score": 514,
+    "protein1_preferred_name": "KDELR1",
+    "protein2_preferred_name": "SURF4"
+  },
+  {
+    "protein1": "ENSP00000329471",
+    "protein2": "ENSP00000386918",
+    "combined_score": 900,
+    "protein1_preferred_name": "KDELR1",
+    "protein2_preferred_name": "KDELR3"
+  },
+  {
+    "protein1": "ENSP00000329471",
+    "protein2": "ENSP00000440005",
+    "combined_score": 646,
+    "protein1_preferred_name": "KDELR1",
+    "protein2_preferred_name": "ARF1"
+  },
+  {
+    "protein1": "ENSP00000330945",
+    "protein2": "ENSP00000357048",
+    "combined_score": 630,
+    "protein1_preferred_name": "TMED9",
+    "protein2_preferred_name": "COPA"
+  },
+  {
+    "protein1": "ENSP00000330945",
+    "protein2": "ENSP00000361057",
+    "combined_score": 638,
+    "protein1_preferred_name": "TMED9",
+    "protein2_preferred_name": "SURF4"
+  },
+  {
+    "protein1": "ENSP00000330945",
+    "protein2": "ENSP00000405926",
+    "combined_score": 698,
+    "protein1_preferred_name": "TMED9",
+    "protein2_preferred_name": "TMED7"
+  },
+  {
+    "protein1": "ENSP00000330945",
+    "protein2": "ENSP00000463393",
+    "combined_score": 595,
+    "protein1_preferred_name": "TMED9",
+    "protein2_preferred_name": "SEC22B"
+  },
+  {
+    "protein1": "ENSP00000357048",
+    "protein2": "ENSP00000361057",
+    "combined_score": 705,
+    "protein1_preferred_name": "COPA",
+    "protein2_preferred_name": "SURF4"
+  },
+  {
+    "protein1": "ENSP00000357048",
+    "protein2": "ENSP00000402346",
+    "combined_score": 983,
+    "protein1_preferred_name": "COPA",
+    "protein2_preferred_name": "COPG2"
+  },
+  {
+    "protein1": "ENSP00000357048",
+    "protein2": "ENSP00000405926",
+    "combined_score": 900,
+    "protein1_preferred_name": "COPA",
+    "protein2_preferred_name": "TMED7"
+  },
+  {
+    "protein1": "ENSP00000357048",
+    "protein2": "ENSP00000406047",
+    "combined_score": 521,
+    "protein1_preferred_name": "COPA",
+    "protein2_preferred_name": "TSGA13"
+  },
+  {
+    "protein1": "ENSP00000357048",
+    "protein2": "ENSP00000434442",
+    "combined_score": 677,
+    "protein1_preferred_name": "COPA",
+    "protein2_preferred_name": "ARFGAP2"
+  },
+  {
+    "protein1": "ENSP00000357048",
+    "protein2": "ENSP00000440005",
+    "combined_score": 573,
+    "protein1_preferred_name": "COPA",
+    "protein2_preferred_name": "ARF1"
+  },
+  {
+    "protein1": "ENSP00000357048",
+    "protein2": "ENSP00000449270",
+    "combined_score": 999,
+    "protein1_preferred_name": "COPA",
+    "protein2_preferred_name": "COPZ1"
+  },
+  {
+    "protein1": "ENSP00000357048",
+    "protein2": "ENSP00000469035",
+    "combined_score": 999,
+    "protein1_preferred_name": "COPA",
+    "protein2_preferred_name": "COPE"
+  },
+  {
+    "protein1": "ENSP00000357048",
+    "protein2": "ENSP00000480707",
+    "combined_score": 980,
+    "protein1_preferred_name": "COPA",
+    "protein2_preferred_name": "COPZ2"
+  },
+  {
+    "protein1": "ENSP00000357869",
+    "protein2": "ENSP00000440005",
+    "combined_score": 861,
+    "protein1_preferred_name": "PI4KB",
+    "protein2_preferred_name": "ARF1"
+  },
+  {
+    "protein1": "ENSP00000359000",
+    "protein2": "ENSP00000386918",
+    "combined_score": 560,
+    "protein1_preferred_name": "GBF1",
+    "protein2_preferred_name": "KDELR3"
+  },
+  {
+    "protein1": "ENSP00000359000",
+    "protein2": "ENSP00000387286",
+    "combined_score": 733,
+    "protein1_preferred_name": "GBF1",
+    "protein2_preferred_name": "RAB1A"
+  },
+  {
+    "protein1": "ENSP00000359000",
+    "protein2": "ENSP00000402346",
+    "combined_score": 682,
+    "protein1_preferred_name": "GBF1",
+    "protein2_preferred_name": "COPG2"
+  },
+  {
+    "protein1": "ENSP00000359000",
+    "protein2": "ENSP00000440005",
+    "combined_score": 630,
+    "protein1_preferred_name": "GBF1",
+    "protein2_preferred_name": "ARF1"
+  },
+  {
+    "protein1": "ENSP00000359871",
+    "protein2": "ENSP00000452762",
+    "combined_score": 947,
+    "protein1_preferred_name": "ACADM",
+    "protein2_preferred_name": "ETFA"
+  },
+  {
+    "protein1": "ENSP00000361057",
+    "protein2": "ENSP00000405926",
+    "combined_score": 698,
+    "protein1_preferred_name": "SURF4",
+    "protein2_preferred_name": "TMED7"
+  },
+  {
+    "protein1": "ENSP00000371175",
+    "protein2": "ENSP00000440005",
+    "combined_score": 981,
+    "protein1_preferred_name": "GGA1",
+    "protein2_preferred_name": "ARF1"
+  },
+  {
+    "protein1": "ENSP00000377148",
+    "protein2": "ENSP00000440005",
+    "combined_score": 967,
+    "protein1_preferred_name": "AP1G1",
+    "protein2_preferred_name": "ARF1"
+  },
+  {
+    "protein1": "ENSP00000387286",
+    "protein2": "ENSP00000405926",
+    "combined_score": 645,
+    "protein1_preferred_name": "RAB1A",
+    "protein2_preferred_name": "TMED7"
+  },
+  {
+    "protein1": "ENSP00000387286",
+    "protein2": "ENSP00000440005",
+    "combined_score": 595,
+    "protein1_preferred_name": "RAB1A",
+    "protein2_preferred_name": "ARF1"
+  },
+  {
+    "protein1": "ENSP00000402346",
+    "protein2": "ENSP00000405926",
+    "combined_score": 900,
+    "protein1_preferred_name": "COPG2",
+    "protein2_preferred_name": "TMED7"
+  },
+  {
+    "protein1": "ENSP00000402346",
+    "protein2": "ENSP00000434442",
+    "combined_score": 708,
+    "protein1_preferred_name": "COPG2",
+    "protein2_preferred_name": "ARFGAP2"
+  },
+  {
+    "protein1": "ENSP00000402346",
+    "protein2": "ENSP00000440005",
+    "combined_score": 604,
+    "protein1_preferred_name": "COPG2",
+    "protein2_preferred_name": "ARF1"
+  },
+  {
+    "protein1": "ENSP00000402346",
+    "protein2": "ENSP00000449270",
+    "combined_score": 989,
+    "protein1_preferred_name": "COPG2",
+    "protein2_preferred_name": "COPZ1"
+  },
+  {
+    "protein1": "ENSP00000402346",
+    "protein2": "ENSP00000469035",
+    "combined_score": 952,
+    "protein1_preferred_name": "COPG2",
+    "protein2_preferred_name": "COPE"
+  },
+  {
+    "protein1": "ENSP00000402346",
+    "protein2": "ENSP00000480707",
+    "combined_score": 941,
+    "protein1_preferred_name": "COPG2",
+    "protein2_preferred_name": "COPZ2"
+  },
+  {
+    "protein1": "ENSP00000405926",
+    "protein2": "ENSP00000449270",
+    "combined_score": 900,
+    "protein1_preferred_name": "TMED7",
+    "protein2_preferred_name": "COPZ1"
+  },
+  {
+    "protein1": "ENSP00000405926",
+    "protein2": "ENSP00000469035",
+    "combined_score": 720,
+    "protein1_preferred_name": "TMED7",
+    "protein2_preferred_name": "COPE"
+  },
+  {
+    "protein1": "ENSP00000405926",
+    "protein2": "ENSP00000480707",
+    "combined_score": 900,
+    "protein1_preferred_name": "TMED7",
+    "protein2_preferred_name": "COPZ2"
+  },
+  {
+    "protein1": "ENSP00000406047",
+    "protein2": "ENSP00000469035",
+    "combined_score": 509,
+    "protein1_preferred_name": "TSGA13",
+    "protein2_preferred_name": "COPE"
+  },
+  {
+    "protein1": "ENSP00000434442",
+    "protein2": "ENSP00000440005",
+    "combined_score": 626,
+    "protein1_preferred_name": "ARFGAP2",
+    "protein2_preferred_name": "ARF1"
+  },
+  {
+    "protein1": "ENSP00000434442",
+    "protein2": "ENSP00000449270",
+    "combined_score": 658,
+    "protein1_preferred_name": "ARFGAP2",
+    "protein2_preferred_name": "COPZ1"
+  },
+  {
+    "protein1": "ENSP00000434442",
+    "protein2": "ENSP00000480707",
+    "combined_score": 605,
+    "protein1_preferred_name": "ARFGAP2",
+    "protein2_preferred_name": "COPZ2"
+  },
+  {
+    "protein1": "ENSP00000437783",
+    "protein2": "ENSP00000445175",
+    "combined_score": 980,
+    "protein1_preferred_name": "LDHC",
+    "protein2_preferred_name": "LDHA"
+  },
+  {
+    "protein1": "ENSP00000440005",
+    "protein2": "ENSP00000449270",
+    "combined_score": 800,
+    "protein1_preferred_name": "ARF1",
+    "protein2_preferred_name": "COPZ1"
+  },
+  {
+    "protein1": "ENSP00000440005",
+    "protein2": "ENSP00000469035",
+    "combined_score": 598,
+    "protein1_preferred_name": "ARF1",
+    "protein2_preferred_name": "COPE"
+  },
+  {
+    "protein1": "ENSP00000440005",
+    "protein2": "ENSP00000480707",
+    "combined_score": 516,
+    "protein1_preferred_name": "ARF1",
+    "protein2_preferred_name": "COPZ2"
+  },
+  {
+    "protein1": "ENSP00000440005",
+    "protein2": "ENSP00000484121",
+    "combined_score": 792,
+    "protein1_preferred_name": "ARF1",
+    "protein2_preferred_name": "ARFIP2"
+  },
+  {
+    "protein1": "ENSP00000449270",
+    "protein2": "ENSP00000469035",
+    "combined_score": 992,
+    "protein1_preferred_name": "COPZ1",
+    "protein2_preferred_name": "COPE"
+  },
+  {
+    "protein1": "ENSP00000449270",
+    "protein2": "ENSP00000480707",
+    "combined_score": 918,
+    "protein1_preferred_name": "COPZ1",
+    "protein2_preferred_name": "COPZ2"
+  },
+  {
+    "protein1": "ENSP00000469035",
+    "protein2": "ENSP00000480707",
+    "combined_score": 945,
+    "protein1_preferred_name": "COPE",
+    "protein2_preferred_name": "COPZ2"
+  }
+]
